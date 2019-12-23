@@ -1,9 +1,5 @@
 package com.itdan.springdemo03;
 
-import com.itdan.springdemo03.pojo.Meun;
-import com.itdan.springdemo03.pojo.User;
-import com.itdan.springdemo03.service.MeunService;
-import com.itdan.springdemo03.service.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
